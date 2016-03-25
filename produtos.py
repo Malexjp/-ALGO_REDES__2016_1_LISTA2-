@@ -1,0 +1,5 @@
+N = ("Entre com o nome do cliente:")
+P = input("Digite preço do produto:")
+Q = input("Digite a quantidade do produto:")
+T = float(P * Q)
+print("Senhor(A) %s, o valor a ser pago é R$: %.2f reais." % (N, T))

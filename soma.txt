@@ -1,0 +1,17 @@
+ALGORITIMO "soma"
+
+
+DECLARE a NUMERICO, b NUMERICO, x NUMERICO
+
+
+ESCREVA " Digite dois números"
+LEIA a, b
+
+
+x <- a + b
+
+
+ESCREVA "O resultado é: ", X
+
+
+FIM_ALGORITMO

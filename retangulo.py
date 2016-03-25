@@ -1,0 +1,5 @@
+print("CALCULAR A AREA DE UM RETANGULO:")
+B = input("Digite a base:")
+H = input(" Digite a altura:")
+A = int(B) * int(H)
+print("A área do retângulo é: %d" %A)

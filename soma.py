@@ -1,0 +1,5 @@
+print("Soma de dois números inteiros:")
+A = input("Digte o primeiro número:")
+B = input("Digite o segundo número:")
+X = int(A) + int(B)
+print("X = %d" % X)
